@@ -1,0 +1,41 @@
+﻿Jason Dolan
+Student Choice Activity #3
+On Tuesday, October 2nd, I attended the spoken word poet. The poet, Kavi Ade, is very experienced, having spoken at over 80 colleges since 2010. Ade had a unique perspective as a poet, coming from the black and the LGBTQ community. The first half of the show was made up of shorter poems, while the second half of the show was comprised of longer ones. Many of the poems were about heavy topics such as sexual assault and death. One aspect of the performance that went along very well with the poems was the fact that there were videos in the background to go along with the poems. This kept you thinking even during the down time in between each poem. One of the poems that was very strong and emotional was when he spoke of his grandmother dying from dehydration. After the poem he explained that he had not seen his grandmother in 7 years when she died at the age of 91, she still had a strong heart she just didn’t have enough fluids in his body. Having a close relationship with my grandmother, I was able to relate to the emotions that came from the death of his grandmother. Coming into this presentation I did not expect there to be such heavy topics. Another one that resonated with me was about his transgender friend Blake’s suicide. He knew him since the were teenagers, when they met at a trans camp in Philly. Similar to the poem about his grandmother’s death, this poem carried some very strong emotions. Through these heavy topics, it was able to shed some light on how important it is to accept trans people in the world today. Overall, I would say that this was a very enlightening performance that brought us through Ade’s past and emotions.
+
+//public class Node
+        //{
+        //    public Node next;
+        //    public string word;
+        //    public int count;
+        //}
+
+        //public class LinkedList
+        //{
+        //    private Node head;
+
+        //    public void AddLast(string word, int count)
+        //    {
+        //        if (head == null)
+        //        {
+        //            head = new Node();
+
+        //            head.word = word;
+        //            head.count = count;
+        //            head.next = null;
+        //        }
+        //        else
+        //        {
+        //            Node toAdd = new Node();
+        //            toAdd.word = word;
+        //            toAdd.count = count;
+
+        //            Node current = head;
+        //            while (current.next != null)
+        //            {
+        //                current = current.next;
+        //            }
+
+        //            current.next = toAdd;
+        //        }
+        //    }
+        //}
